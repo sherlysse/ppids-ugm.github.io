@@ -23,6 +23,16 @@
         "type": "Point",
         "coordinates": [110, -7.3]
       }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "nama": "sherly",
+        "alamat": "antahberantah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.69707, -7.42292]
+      }
     }
 
   ]
