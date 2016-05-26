@@ -26,12 +26,12 @@
     }, {
       "type": "Feature",
       "properties": {
-        "nama": "sherly",
-        "alamat": "antahberantah"
+        "nama": "Sherly Shinta Emalia",
+        "alamat": "Sidoarjo"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [112.69707, -7.42292]
+        "coordinates": [112.72521, -7.44587]
       }
     }
 
